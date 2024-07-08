@@ -1,0 +1,16 @@
+{
+  "name": "waiting-theory-assume-4dxa0",
+  "productName": "waiting-theory-assume-4dxa0",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "LHJ",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "31.1.0"
+  }
+}
